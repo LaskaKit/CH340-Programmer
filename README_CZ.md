@@ -2,7 +2,7 @@
 
 # Univerzální programátor s USB-UART převodníkem CH340 určený k nahrávání firmware (nejen) do vývojových stavebnic LaskaKit. 
 
-Hledáteli jednoduchý a levný programátor - USB-UART převodník - který můžete použít s vaší či naší deskou s ESP32, ESP8266 nebo ESP-C3, pak byste neměli přehlédnout právě tento. 
+Hledáteli jednoduchý a levný programátor - USB-UART převodník - který můžete použít s vaší či naší deskou s ESP32, ESP8266 nebo ESP-C3, pak byste neměli přehlédnout právě tento. Tento převodník však můžete použít i pro desky jako je Arduino Mini a to díky přepínači mezi 5V a 3.3V napájením, který na programátoru máme.
 
 Programátor je založen na známém a odzkoušeném čipu CH340C. Na desce je také přepínač, kterým volíte jak napětí na pinu VCC, tak logickou úroveň sběrnice. Přepínač můžete přepnout buď na 5V či 3.3V. 
 
