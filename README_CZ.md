@@ -21,4 +21,5 @@ Kromě UART sběrnice a napájení jsou na konektoru k dispozici i piny DTR a RT
 Instalaci ovladačů pro čip CH340 jsem popsali v tomto článku https://blog.laskarduino.cz/instalace-ovladace-prevodniku-usb-na-uart-ch340/ 
 
 Github CH340 programátoru naleznete na https://github.com/LaskaKit/CH340-Programmer
+
 K zakoupení je na naší stránce https://www.laskarduino.cz/laskakit-ch340-programmer-usb-c--microusb--uart/ 
