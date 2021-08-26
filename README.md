@@ -22,4 +22,5 @@ The output connector includes switchable power supply (3.3V or 5V), UART and DTR
 How to install the CH340C is described in this article https://blog.laskarduino.cz/instalace-ovladace-prevodniku-usb-na-uart-ch340/ 
 
 Github of CH340 programmer https://github.com/LaskaKit/CH340-Programmer
+
 It is available on https://www.laskarduino.cz/laskakit-ch340-programmer-usb-c--microusb--uart/ 
